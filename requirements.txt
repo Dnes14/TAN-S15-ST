@@ -1,0 +1,6 @@
+ipykernel
+pandas
+openpyxl
+matplotlib
+statsmodels
+scikit-learn
